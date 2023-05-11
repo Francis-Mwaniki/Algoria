@@ -17,7 +17,9 @@
   "dependencies": {
     "@nuxtjs/algolia": "^1.6.0",
     "@nuxtjs/tailwindcss": "^6.6.7",
+    "axios": "^1.4.0",
     "instantsearch.js": "^4.55.0",
+    "lru-cache": "^9.1.1",
     "meilisearch": "^0.32.3",
     "vue-instantsearch": "^4.9.0"
   }

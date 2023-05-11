@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex md:flex-row flex-col justify-center items-center mx-auto w-full h-full relative md:max-w-5xl gap-x-6 overflow-hidden"
+    class="flex md:flex-row flex-col justify-center items-center mx-auto max-w-md h-full relative md:max-w-5xl gap-x-6 overflow-hidden"
   >
     <div
       class="md:left-0 md:top-0 md:bottom-0 top-0 mx-auto p-4 md:w-1/4 bg-gray-900 text-white md:min-h-screen w-full md:fixed"
